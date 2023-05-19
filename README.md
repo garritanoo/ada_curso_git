@@ -1,3 +1,4 @@
 # Curso Digital: Git
 
-## Salvando alterações
+## Salvando alterações no Git
+* comando git push
